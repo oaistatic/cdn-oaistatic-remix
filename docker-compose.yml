@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  cdn-oaistatic-remix:
+    image: lyy0709/cdn-oaistatic-remix:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: cdn-oaistatic-remix
+    ports:
+      - "8642:80"
+    environment:
+      - ASSET_PREFIX=http://yourdomain.com
