@@ -209,33 +209,7 @@
   <link href="{{.assetPrefix}}/assets/a88q2w3cdcmfttgr.js" rel="modulepreload"/>
   <link href="{{.assetPrefix}}/assets/lr0bc7ws6ok3rbmo.js" rel="modulepreload"/>
   <script nonce="0a8f40e5-8bde-4a78-ac24-92d804685e0a">
-   window.__remixContext = {{.remixContext}};__remixContext.p = function(v,e,p,x) {
-  if (typeof e !== 'undefined') {
-    x=new Error("Unexpected Server Error");
-    x.stack=undefined;
-    p=Promise.reject(x);
-  } else {
-    p=Promise.resolve(v);
-  }
-  return p;
-};
-__remixContext.n = function(i,k) {
-  __remixContext.t = __remixContext.t || {};
-  __remixContext.t[i] = __remixContext.t[i] || {};
-  let p = new Promise((r, e) => {__remixContext.t[i][k] = {r:(v)=>{r(v);},e:(v)=>{e(v);}};});
-setTimeout(() => {if(typeof p._error !== "undefined" || typeof p._data !== "undefined"){return;} __remixContext.t[i][k].e(new Error("Server timeout."))}, 5000);
-  return p;
-};
-__remixContext.r = function(i,k,v,e,p,x) {
-  p = __remixContext.t[i][k];
-  if (typeof e !== 'undefined') {
-    x=new Error("Unexpected Server Error");
-    x.stack=undefined;
-    p.e(x);
-  } else {
-    p.r(v);
-  }
-};Object.assign(__remixContext.state.loaderData["routes/_conversation"], {});
+   window.__remixContext = {{.remixContext}};
   </script>
   <script async="" nonce="0a8f40e5-8bde-4a78-ac24-92d804685e0a" type="module">
    import "{{.assetPrefix}}/assets/manifest-60ba4906.js";
@@ -246,9 +220,6 @@ import * as route2 from "{{.assetPrefix}}/assets/lr0bc7ws6ok3rbmo.js";
 window.__remixRouteModules = {"root":route0,"routes/_conversation":route1,"routes/_conversation.c.$conversationId":route2};
 
 import("{{.assetPrefix}}/assets/g1kq90ymxw4mqoci.js");
-  </script>
-  <script nonce="0a8f40e5-8bde-4a78-ac24-92d804685e0a">
-   (function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.nonce='0a8f40e5-8bde-4a78-ac24-92d804685e0a';d.innerHTML="window.__CF$cv$params={r:'8cda2afffe037c86',t:'MTcyODA5NzI5NS4wMDAwMDA='};var a=document.createElement('script');a.nonce='0a8f40e5-8bde-4a78-ac24-92d804685e0a';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();
   </script>
  </body>
 </html>
