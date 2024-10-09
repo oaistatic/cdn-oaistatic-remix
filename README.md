@@ -8,17 +8,23 @@
 创建`docker-compose.yml`文件，内容如下：
 
 ```yaml
-version: '3'
+version: '3.8'
+
 services:
-  cdn-oaistatic:
+  cdn-oaistatic-remix:
     image: lyy0709/cdn-oaistatic-remix:latest
-    restart: always
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: cdn-oaistatic-remix
     ports:
-      - 8642:80
+      - "8642:80"
     environment:
       - ASSET_PREFIX=http://yourdomain.com
 ```
-请把ASSET_PREFIX=http://yourdomain.com后的http://yourdomain.com改为你的域名再启动
+请把ASSET_PREFIX=http://yourdomain.com 后的 http://yourdomain.com 改为你的域名再启动(注意https)
+
+需要最新版请注释image: lyy0709/cdn-oaistatic-remix:latest，docker镜像更新至93388cc8c986c58098b17f205c65b44f06a8fc60
 
 然后执行`docker compose up -d`即可。
 
