@@ -15,12 +15,12 @@
                 "rq:[\"session\"]": {
                     "data": {
                         "user": {},
-                        "expires": "2025-02-26T02:35:50.161Z",
+                        "expires": "2025-02-26T09:21:47.276Z",
                         "accessToken": "",
                         "authProvider": "login-web"
                     },
                     "dataUpdateCount": 1,
-                    "dataUpdatedAt": 1732761350298,
+                    "dataUpdatedAt": 1732785707374,
                     "error": null,
                     "errorUpdateCount": 0,
                     "errorUpdatedAt": 0,
@@ -34,12 +34,12 @@
                 "clientBootstrap": {
                     "session": {
                         "user": {},
-                        "expires": "2025-02-26T02:35:50.161Z",
+                        "expires": "2025-02-26T09:21:47.276Z",
                         "accessToken": "",
                         "authProvider": "login-web"
                     },
                     "user": {},
-                    "cluster": "unified-1",
+                    "cluster": "unified-4",
                     "userCountry": "US",
                     "userRegion": "California",
                     "userRegionCode": "CA",
@@ -6227,7 +6227,7 @@
                                 "sdkType": "statsig-node",
                                 "sdkVersion": "5.26.0"
                             },
-                            "time": 1732761276676,
+                            "time": 1732783036683,
                             "evaluated_keys": {
                                 "userID": "user-UDO51Dtld6vlySTgjEeTDrsL",
                                 "customIDs": {
@@ -6289,7 +6289,7 @@
                 "isIos": false,
                 "isAndroidChrome": false,
                 "isElectron": false,
-                "cspScriptNonce": "bbf67734-8de2-4e1a-b799-557185bd6ac8"
+                "cspScriptNonce": "a1e80c17-4aae-497f-a93b-9f29fe2c32f7"
             },
             "routes/gpts._index": {
                 "kind": "store"

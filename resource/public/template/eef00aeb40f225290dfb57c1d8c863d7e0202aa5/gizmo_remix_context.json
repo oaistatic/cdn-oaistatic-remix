@@ -15,12 +15,12 @@
                 "rq:[\"session\"]": {
                     "data": {
                         "user": {},
-                        "expires": "2025-02-26T02:36:03.168Z",
+                        "expires": "2025-02-26T09:21:35.614Z",
                         "accessToken": "",
                         "authProvider": "login-web"
                     },
                     "dataUpdateCount": 1,
-                    "dataUpdatedAt": 1732761363344,
+                    "dataUpdatedAt": 1732785695706,
                     "error": null,
                     "errorUpdateCount": 0,
                     "errorUpdatedAt": 0,
@@ -34,12 +34,12 @@
                 "clientBootstrap": {
                     "session": {
                         "user": {},
-                        "expires": "2025-02-26T02:36:03.168Z",
+                        "expires": "2025-02-26T09:21:35.614Z",
                         "accessToken": "",
                         "authProvider": "login-web"
                     },
                     "user": {},
-                    "cluster": "unified-1",
+                    "cluster": "unified-4",
                     "userCountry": "US",
                     "userRegion": "California",
                     "userRegionCode": "CA",
@@ -6227,7 +6227,7 @@
                                 "sdkType": "statsig-node",
                                 "sdkVersion": "5.26.0"
                             },
-                            "time": 1732761276676,
+                            "time": 1732783036683,
                             "evaluated_keys": {
                                 "userID": "user-UDO51Dtld6vlySTgjEeTDrsL",
                                 "customIDs": {
@@ -6289,17 +6289,17 @@
                 "isIos": false,
                 "isAndroidChrome": false,
                 "isElectron": false,
-                "cspScriptNonce": "8e5bf84e-345e-4e6a-8816-131d841adeb5"
+                "cspScriptNonce": "356efed5-f95d-441d-844e-ec26ba0e8c59"
             },
             "routes/g.$gizmoId._index": {
                 "session": {
                     "user": {},
-                    "expires": "2025-02-26T02:36:03.168Z",
+                    "expires": "2025-02-26T09:21:35.614Z",
                     "accessToken": "",
                     "authProvider": "login-web"
                 },
                 "user": {},
-                "cluster": "unified-1",
+                "cluster": "unified-4",
                 "userCountry": "US",
                 "userRegion": "California",
                 "userRegionCode": "CA",
@@ -12487,7 +12487,7 @@
                             "sdkType": "statsig-node",
                             "sdkVersion": "5.26.0"
                         },
-                        "time": 1732761276676,
+                        "time": 1732783036683,
                         "evaluated_keys": {
                             "userID": "user-UDO51Dtld6vlySTgjEeTDrsL",
                             "customIDs": {

@@ -15,12 +15,12 @@
                 "rq:[\"session\"]": {
                     "data": {
                         "user": {},
-                        "expires": "2025-02-26T02:36:37.036Z",
+                        "expires": "2025-02-26T09:21:52.959Z",
                         "accessToken": "",
                         "authProvider": "login-web"
                     },
                     "dataUpdateCount": 1,
-                    "dataUpdatedAt": 1732761397137,
+                    "dataUpdatedAt": 1732785713111,
                     "error": null,
                     "errorUpdateCount": 0,
                     "errorUpdatedAt": 0,
@@ -34,12 +34,12 @@
                 "clientBootstrap": {
                     "session": {
                         "user": {},
-                        "expires": "2025-02-26T02:36:37.036Z",
+                        "expires": "2025-02-26T09:21:52.959Z",
                         "accessToken": "",
                         "authProvider": "login-web"
                     },
                     "user": {},
-                    "cluster": "unified-1",
+                    "cluster": "unified-4",
                     "userCountry": "US",
                     "userRegion": "California",
                     "userRegionCode": "CA",
@@ -6227,7 +6227,7 @@
                                 "sdkType": "statsig-node",
                                 "sdkVersion": "5.26.0"
                             },
-                            "time": 1732761276676,
+                            "time": 1732783036683,
                             "evaluated_keys": {
                                 "userID": "user-UDO51Dtld6vlySTgjEeTDrsL",
                                 "customIDs": {
@@ -6289,7 +6289,7 @@
                 "isIos": false,
                 "isAndroidChrome": false,
                 "isElectron": false,
-                "cspScriptNonce": "288390d7-a176-454e-a86f-5d0b13694c9b"
+                "cspScriptNonce": "29d832d2-2e65-44c8-a9a5-8fe1b7135b1d"
             },
             "routes/gpts.mine": null
         },
