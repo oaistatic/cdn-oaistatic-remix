@@ -12534,7 +12534,7 @@
                 "authStatus": "logged_in",
                 "accountsStatus": null,
                 "kind": "chat_page",
-                "gizmo": ""
+                "gizmo": {}
             }
         },
         "actionData": null,
