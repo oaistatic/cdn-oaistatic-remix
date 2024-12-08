@@ -15,12 +15,12 @@
                 "rq:[\"session\"]": {
                     "data": {
                         "user": {},
-                        "expires": "2025-03-08T04:03:21.759Z",
+                        "expires": "2025-03-08T04:45:15.900Z",
                         "accessToken": "",
                         "authProvider": "login-web"
                     },
                     "dataUpdateCount": 1,
-                    "dataUpdatedAt": 1733630601938,
+                    "dataUpdatedAt": 1733633116007,
                     "error": null,
                     "errorUpdateCount": 0,
                     "errorUpdatedAt": 0,
@@ -35,12 +35,12 @@
                 "clientBootstrap": {
                     "session": {
                         "user": {},
-                        "expires": "2025-03-08T04:03:21.759Z",
+                        "expires": "2025-03-08T04:45:15.900Z",
                         "accessToken": "",
                         "authProvider": "login-web"
                     },
                     "user": {},
-                    "cluster": "unified-7",
+                    "cluster": "unified-1",
                     "userCountry": "TW",
                     "userRegion": "Taichung City",
                     "userRegionCode": "TXG",
@@ -61,8 +61,8 @@
                                 },
                                 "16325302": {
                                     "name": "16325302",
-                                    "value": false,
-                                    "rule_id": "dOGUwK5CNrIUHVPOvfOtI",
+                                    "value": true,
+                                    "rule_id": "dOGUK2ph8FDq0jgBwGSVY",
                                     "secondary_exposures": []
                                 },
                                 "29898433": {
@@ -73,8 +73,8 @@
                                 },
                                 "44045625": {
                                     "name": "44045625",
-                                    "value": true,
-                                    "rule_id": "1vGfaAvyQ4VnZ5Y0UnCsbl:100.00:5",
+                                    "value": false,
+                                    "rule_id": "default",
                                     "secondary_exposures": []
                                 },
                                 "61299031": {
@@ -86,7 +86,7 @@
                                 "73891701": {
                                     "name": "73891701",
                                     "value": true,
-                                    "rule_id": "4M51I9cMzYqCiiDU2N0eXN:100.00:1",
+                                    "rule_id": "4M51IcwRuyJAV7JLf2RvzR:100.00:1",
                                     "secondary_exposures": []
                                 },
                                 "80186230": {
@@ -103,8 +103,8 @@
                                 },
                                 "106692620": {
                                     "name": "106692620",
-                                    "value": false,
-                                    "rule_id": "default",
+                                    "value": true,
+                                    "rule_id": "1hEXWjwjOQYkBVI6sxSbGW",
                                     "secondary_exposures": []
                                 },
                                 "156153730": {
@@ -121,13 +121,13 @@
                                 },
                                 "174366048": {
                                     "name": "174366048",
-                                    "value": true,
-                                    "rule_id": "bhPM7FsN2H1vnBUrxrg6v:100.00:3",
+                                    "value": false,
+                                    "rule_id": "default",
                                     "secondary_exposures": [
                                         {
                                             "gate": "1923022511",
-                                            "gateValue": "true",
-                                            "ruleID": "6VUF6Z1JaUKZF7RS6uSjUu:100.00:6"
+                                            "gateValue": "false",
+                                            "ruleID": "default"
                                         }
                                     ]
                                 },
@@ -157,8 +157,8 @@
                                 },
                                 "218782548": {
                                     "name": "218782548",
-                                    "value": true,
-                                    "rule_id": "O6KJIc17hgSSq02YhhJrb:100.00:2",
+                                    "value": false,
+                                    "rule_id": "default",
                                     "secondary_exposures": [
                                         {
                                             "gate": "1456438623",
@@ -177,8 +177,8 @@
                                         },
                                         {
                                             "gate": "3805873235",
-                                            "gateValue": "true",
-                                            "ruleID": "5KvGWgEpEmDspTafar95iC:100.00:9"
+                                            "gateValue": "false",
+                                            "ruleID": "5KvGWxgOdialy0Dx9IrqmW:0.00:1"
                                         }
                                     ]
                                 },
@@ -190,13 +190,13 @@
                                 },
                                 "232791851": {
                                     "name": "232791851",
-                                    "value": true,
-                                    "rule_id": "rYvpa7v0ZvIBvAyteaqrp:100.00:2",
+                                    "value": false,
+                                    "rule_id": "default",
                                     "secondary_exposures": [
                                         {
                                             "gate": "3922476776",
-                                            "gateValue": "true",
-                                            "ruleID": "1DS1QvDa6IFq9C1oJfgtU9"
+                                            "gateValue": "false",
+                                            "ruleID": "PFYAe0Nut4olKWnZ4Hnig:0.00:13"
                                         },
                                         {
                                             "gate": "749124420",
@@ -224,8 +224,8 @@
                                 },
                                 "314203997": {
                                     "name": "314203997",
-                                    "value": false,
-                                    "rule_id": "default",
+                                    "value": true,
+                                    "rule_id": "1xxCxIL481xrcopVBtYwxf",
                                     "secondary_exposures": []
                                 },
                                 "359124149": {
@@ -307,7 +307,7 @@
                                         {
                                             "gate": "1426009137",
                                             "gateValue": "true",
-                                            "ruleID": "4C2vO0R7mvnCZvl1HDBExp:30.00:5"
+                                            "ruleID": "7D8EAif25E3Y8A3zkg6ljp:100.00:2"
                                         }
                                     ]
                                 },
@@ -414,7 +414,7 @@
                                         {
                                             "gate": "1426009137",
                                             "gateValue": "true",
-                                            "ruleID": "4C2vO0R7mvnCZvl1HDBExp:30.00:5"
+                                            "ruleID": "7D8EAif25E3Y8A3zkg6ljp:100.00:2"
                                         }
                                     ]
                                 },
@@ -527,7 +527,7 @@
                                         {
                                             "gate": "1426009137",
                                             "gateValue": "true",
-                                            "ruleID": "4C2vO0R7mvnCZvl1HDBExp:30.00:5"
+                                            "ruleID": "7D8EAif25E3Y8A3zkg6ljp:100.00:2"
                                         }
                                     ]
                                 },
@@ -544,7 +544,7 @@
                                         {
                                             "gate": "1426009137",
                                             "gateValue": "true",
-                                            "ruleID": "4C2vO0R7mvnCZvl1HDBExp:30.00:5"
+                                            "ruleID": "7D8EAif25E3Y8A3zkg6ljp:100.00:2"
                                         }
                                     ]
                                 },
@@ -652,8 +652,8 @@
                                 },
                                 "1291584794": {
                                     "name": "1291584794",
-                                    "value": false,
-                                    "rule_id": "default",
+                                    "value": true,
+                                    "rule_id": "6ZsiDIeuJtcaiPTbPaJxNN",
                                     "secondary_exposures": []
                                 },
                                 "1306782371": {
@@ -711,7 +711,7 @@
                                 "1426009137": {
                                     "name": "1426009137",
                                     "value": true,
-                                    "rule_id": "4C2vO0R7mvnCZvl1HDBExp:30.00:5",
+                                    "rule_id": "7D8EAif25E3Y8A3zkg6ljp:100.00:2",
                                     "secondary_exposures": [
                                         {
                                             "gate": "1457171347",
@@ -770,8 +770,8 @@
                                 },
                                 "1567586774": {
                                     "name": "1567586774",
-                                    "value": true,
-                                    "rule_id": "3aegmuqWMRiqEElkWxnN4D",
+                                    "value": false,
+                                    "rule_id": "default",
                                     "secondary_exposures": [
                                         {
                                             "gate": "1456438623",
@@ -790,8 +790,8 @@
                                         },
                                         {
                                             "gate": "3805873235",
-                                            "gateValue": "true",
-                                            "ruleID": "5KvGWgEpEmDspTafar95iC:100.00:9"
+                                            "gateValue": "false",
+                                            "ruleID": "5KvGWxgOdialy0Dx9IrqmW:0.00:1"
                                         }
                                     ]
                                 },
@@ -845,8 +845,8 @@
                                 },
                                 "1820151945": {
                                     "name": "1820151945",
-                                    "value": true,
-                                    "rule_id": "3dG8z8CNFtgpXJNyOi8ijR",
+                                    "value": false,
+                                    "rule_id": "6trY8Zt53urtkxuGnQToZr",
                                     "secondary_exposures": []
                                 },
                                 "1825130190": {
@@ -887,8 +887,8 @@
                                 },
                                 "1923022511": {
                                     "name": "1923022511",
-                                    "value": true,
-                                    "rule_id": "6VUF6Z1JaUKZF7RS6uSjUu:100.00:6",
+                                    "value": false,
+                                    "rule_id": "default",
                                     "secondary_exposures": []
                                 },
                                 "1938289220": {
@@ -1024,7 +1024,7 @@
                                 "2437036977": {
                                     "name": "2437036977",
                                     "value": true,
-                                    "rule_id": "38o5zBXzWA42Kpsq3Uw1fZ:100.00:6",
+                                    "rule_id": "2QjhvJSwZzGwL8BtFG4c4S",
                                     "secondary_exposures": []
                                 },
                                 "2445152477": {
@@ -1101,8 +1101,8 @@
                                 },
                                 "2634628831": {
                                     "name": "2634628831",
-                                    "value": true,
-                                    "rule_id": "6LfSag7ByiH0gGcqoFHHBe",
+                                    "value": false,
+                                    "rule_id": "default",
                                     "secondary_exposures": [
                                         {
                                             "gate": "1456438623",
@@ -1121,8 +1121,8 @@
                                         },
                                         {
                                             "gate": "3805873235",
-                                            "gateValue": "true",
-                                            "ruleID": "5KvGWgEpEmDspTafar95iC:100.00:9"
+                                            "gateValue": "false",
+                                            "ruleID": "5KvGWxgOdialy0Dx9IrqmW:0.00:1"
                                         }
                                     ]
                                 },
@@ -1134,19 +1134,19 @@
                                 },
                                 "2742826311": {
                                     "name": "2742826311",
-                                    "value": false,
-                                    "rule_id": "default",
+                                    "value": true,
+                                    "rule_id": "3IJuxZS7pM0i2yMo7H20sQ",
                                     "secondary_exposures": []
                                 },
                                 "2747189243": {
                                     "name": "2747189243",
-                                    "value": true,
-                                    "rule_id": "3g9RcSafv0cbuItH1ejz2e",
+                                    "value": false,
+                                    "rule_id": "default",
                                     "secondary_exposures": [
                                         {
                                             "gate": "44045625",
-                                            "gateValue": "true",
-                                            "ruleID": "1vGfaAvyQ4VnZ5Y0UnCsbl:100.00:5"
+                                            "gateValue": "false",
+                                            "ruleID": "default"
                                         }
                                     ]
                                 },
@@ -1169,7 +1169,7 @@
                                         {
                                             "gate": "1426009137",
                                             "gateValue": "true",
-                                            "ruleID": "4C2vO0R7mvnCZvl1HDBExp:30.00:5"
+                                            "ruleID": "7D8EAif25E3Y8A3zkg6ljp:100.00:2"
                                         }
                                     ]
                                 },
@@ -1200,7 +1200,7 @@
                                 "2848981774": {
                                     "name": "2848981774",
                                     "value": false,
-                                    "rule_id": "7gC12Wmu3fiu9DEbD42BRt:0.00:1",
+                                    "rule_id": "default",
                                     "secondary_exposures": [
                                         {
                                             "gate": "1074323483",
@@ -1239,8 +1239,8 @@
                                         },
                                         {
                                             "gate": "3805873235",
-                                            "gateValue": "true",
-                                            "ruleID": "5KvGWgEpEmDspTafar95iC:100.00:9"
+                                            "gateValue": "false",
+                                            "ruleID": "5KvGWxgOdialy0Dx9IrqmW:0.00:1"
                                         }
                                     ]
                                 },
@@ -1354,7 +1354,7 @@
                                 "3051378794": {
                                     "name": "3051378794",
                                     "value": false,
-                                    "rule_id": "4rE18yl8mQ7mt6mTPZUSe7",
+                                    "rule_id": "default",
                                     "secondary_exposures": [
                                         {
                                             "gate": "1456438623",
@@ -1373,8 +1373,8 @@
                                         },
                                         {
                                             "gate": "3805873235",
-                                            "gateValue": "true",
-                                            "ruleID": "5KvGWgEpEmDspTafar95iC:100.00:9"
+                                            "gateValue": "false",
+                                            "ruleID": "5KvGWxgOdialy0Dx9IrqmW:0.00:1"
                                         }
                                     ]
                                 },
@@ -1488,8 +1488,8 @@
                                 },
                                 "3643162575": {
                                     "name": "3643162575",
-                                    "value": true,
-                                    "rule_id": "56j9Tu0CGzcoiVbnTxuR7O",
+                                    "value": false,
+                                    "rule_id": "default",
                                     "secondary_exposures": []
                                 },
                                 "3650277116": {
@@ -1542,13 +1542,13 @@
                                 },
                                 "3700204850": {
                                     "name": "3700204850",
-                                    "value": true,
-                                    "rule_id": "3XhOnCKesuZJkjwpLjVs6D",
+                                    "value": false,
+                                    "rule_id": "default",
                                     "secondary_exposures": [
                                         {
                                             "gate": "44045625",
-                                            "gateValue": "true",
-                                            "ruleID": "1vGfaAvyQ4VnZ5Y0UnCsbl:100.00:5"
+                                            "gateValue": "false",
+                                            "ruleID": "default"
                                         }
                                     ]
                                 },
@@ -1566,8 +1566,8 @@
                                 },
                                 "3768008236": {
                                     "name": "3768008236",
-                                    "value": true,
-                                    "rule_id": "1RLdkTkjmcg9Fw2utfyfTQ",
+                                    "value": false,
+                                    "rule_id": "default",
                                     "secondary_exposures": []
                                 },
                                 "3825730354": {
@@ -1578,7 +1578,7 @@
                                 },
                                 "3894844102": {
                                     "name": "3894844102",
-                                    "value": true,
+                                    "value": false,
                                     "rule_id": "3QXis04GA1OiER0i1tq5MT:50.00:4",
                                     "secondary_exposures": []
                                 },
@@ -1596,8 +1596,8 @@
                                 },
                                 "3922476776": {
                                     "name": "3922476776",
-                                    "value": true,
-                                    "rule_id": "1DS1QvDa6IFq9C1oJfgtU9",
+                                    "value": false,
+                                    "rule_id": "PFYAe0Nut4olKWnZ4Hnig:0.00:13",
                                     "secondary_exposures": []
                                 },
                                 "3941367332": {
@@ -2133,25 +2133,23 @@
                                 },
                                 "743318407": {
                                     "name": "743318407",
-                                    "value": {
-                                        "show_nux": false
-                                    },
-                                    "group": "lSeIFMDqi3rUb9nbnHjNq",
-                                    "rule_id": "lSeIFMDqi3rUb9nbnHjNq",
+                                    "value": {},
+                                    "group": "targetingGate",
+                                    "rule_id": "targetingGate",
                                     "is_device_based": false,
                                     "secondary_exposures": [
                                         {
                                             "gate": "44045625",
-                                            "gateValue": "true",
-                                            "ruleID": "1vGfaAvyQ4VnZ5Y0UnCsbl:100.00:5"
+                                            "gateValue": "false",
+                                            "ruleID": "default"
                                         },
                                         {
                                             "gate": "1885925757",
-                                            "gateValue": "true",
-                                            "ruleID": "eQDwmyE5I59TrWptI3Atm:100.00:3"
+                                            "gateValue": "false",
+                                            "ruleID": "default"
                                         }
                                     ],
-                                    "is_user_in_experiment": true,
+                                    "is_user_in_experiment": false,
                                     "is_experiment_active": true
                                 },
                                 "754469756": {
@@ -2276,20 +2274,20 @@
                                 "938456440": {
                                     "name": "938456440",
                                     "value": {
-                                        "enable_indexing": false,
-                                        "wave": 0,
-                                        "enable_ux": false,
-                                        "enable_local_indexing": false,
+                                        "enable_indexing": true,
+                                        "wave": 4,
+                                        "enable_ux": true,
+                                        "enable_local_indexing": true,
                                         "backfill_completed": false
                                     },
-                                    "group": "targetingGate",
-                                    "rule_id": "targetingGate",
+                                    "group": "2FumR96nD9vWJ77uvZ7mcg",
+                                    "rule_id": "2FumR96nD9vWJ77uvZ7mcg",
                                     "is_device_based": false,
                                     "secondary_exposures": [
                                         {
                                             "gate": "1221279314",
-                                            "gateValue": "false",
-                                            "ruleID": "default"
+                                            "gateValue": "true",
+                                            "ruleID": "1FzsKf0T7jWwTRKiSrbUld:100.00:4"
                                         }
                                     ],
                                     "explicit_parameters": [
@@ -2299,7 +2297,7 @@
                                         "enable_ux",
                                         "enable_local_indexing"
                                     ],
-                                    "is_user_in_experiment": false,
+                                    "is_user_in_experiment": true,
                                     "is_experiment_active": true,
                                     "is_in_layer": true
                                 },
@@ -2371,21 +2369,21 @@
                                 "1028722647": {
                                     "name": "1028722647",
                                     "value": {
-                                        "enable_indexing": true,
-                                        "backfill_completed": true,
-                                        "enable_local_indexing": true,
-                                        "enable_ux": true,
+                                        "enable_indexing": false,
+                                        "backfill_completed": false,
+                                        "enable_local_indexing": false,
+                                        "enable_ux": false,
                                         "enable_us_rollout": false,
-                                        "enable_ux_rollout": true
+                                        "enable_ux_rollout": false
                                     },
-                                    "group": "31UyKaWB8PZhFswQt29NlZ",
-                                    "rule_id": "31UyKaWB8PZhFswQt29NlZ",
+                                    "group": "targetingGate",
+                                    "rule_id": "targetingGate",
                                     "is_device_based": false,
                                     "secondary_exposures": [
                                         {
                                             "gate": "2372319800",
-                                            "gateValue": "true",
-                                            "ruleID": "4NZS9cdXgw2uEnVQCdyNMH:100.00:30"
+                                            "gateValue": "false",
+                                            "ruleID": "default"
                                         }
                                     ],
                                     "explicit_parameters": [
@@ -2395,7 +2393,7 @@
                                         "enable_ux",
                                         "enable_ux_rollout"
                                     ],
-                                    "is_user_in_experiment": true,
+                                    "is_user_in_experiment": false,
                                     "is_experiment_active": true,
                                     "is_in_layer": true
                                 },
@@ -2685,18 +2683,15 @@
                                 },
                                 "1547924522": {
                                     "name": "1547924522",
-                                    "value": {
-                                        "show_ui": true,
-                                        "enabled": true
-                                    },
-                                    "group": "launchedGroup",
-                                    "rule_id": "launchedGroup",
+                                    "value": {},
+                                    "group": "targetingGate",
+                                    "rule_id": "targetingGate",
                                     "is_device_based": false,
                                     "secondary_exposures": [
                                         {
                                             "gate": "2183784321",
-                                            "gateValue": "true",
-                                            "ruleID": "7stvavArTuHK8XvexxjCiu"
+                                            "gateValue": "false",
+                                            "ruleID": "default"
                                         }
                                     ],
                                     "is_user_in_experiment": false,
@@ -3750,20 +3745,12 @@
                                 },
                                 "2663462255": {
                                     "name": "2663462255",
-                                    "value": {
-                                        "is-enabled": false
-                                    },
-                                    "group": "4SAS7Q9b2Wbsmv8vvzWs2y",
-                                    "rule_id": "4SAS7Q9b2Wbsmv8vvzWs2y",
+                                    "value": {},
+                                    "group": "layerAssignment",
+                                    "rule_id": "layerAssignment",
                                     "is_device_based": true,
-                                    "secondary_exposures": [
-                                        {
-                                            "gate": "164447571",
-                                            "gateValue": "true",
-                                            "ruleID": "5p0MgUpTfrapoShcevMcJ8"
-                                        }
-                                    ],
-                                    "is_user_in_experiment": true,
+                                    "secondary_exposures": [],
+                                    "is_user_in_experiment": false,
                                     "is_experiment_active": true
                                 },
                                 "2664741443": {
@@ -6028,21 +6015,21 @@
                                 "1630876919": {
                                     "name": "1630876919",
                                     "value": {
-                                        "enable_indexing": true,
-                                        "backfill_completed": true,
-                                        "enable_local_indexing": true,
-                                        "enable_ux": true,
+                                        "enable_indexing": false,
+                                        "backfill_completed": false,
+                                        "enable_local_indexing": false,
+                                        "enable_ux": false,
                                         "enable_us_rollout": false,
-                                        "enable_ux_rollout": true
+                                        "enable_ux_rollout": false
                                     },
-                                    "group": "31UyKaWB8PZhFswQt29NlZ",
-                                    "rule_id": "31UyKaWB8PZhFswQt29NlZ",
+                                    "group": "targetingGate",
+                                    "rule_id": "targetingGate",
                                     "is_device_based": false,
                                     "secondary_exposures": [
                                         {
                                             "gate": "2372319800",
-                                            "gateValue": "true",
-                                            "ruleID": "4NZS9cdXgw2uEnVQCdyNMH:100.00:30"
+                                            "gateValue": "false",
+                                            "ruleID": "default"
                                         }
                                     ],
                                     "explicit_parameters": [
@@ -6054,7 +6041,7 @@
                                     ],
                                     "allocated_experiment_name": "1028722647",
                                     "is_experiment_active": true,
-                                    "is_user_in_experiment": true,
+                                    "is_user_in_experiment": false,
                                     "undelegated_secondary_exposures": []
                                 },
                                 "1696863369": {
@@ -6259,20 +6246,20 @@
                                 "3436367576": {
                                     "name": "3436367576",
                                     "value": {
-                                        "enable_indexing": false,
-                                        "wave": 0,
-                                        "enable_ux": false,
-                                        "enable_local_indexing": false,
+                                        "enable_indexing": true,
+                                        "wave": 4,
+                                        "enable_ux": true,
+                                        "enable_local_indexing": true,
                                         "backfill_completed": false
                                     },
-                                    "group": "targetingGate",
-                                    "rule_id": "targetingGate",
+                                    "group": "2FumR96nD9vWJ77uvZ7mcg",
+                                    "rule_id": "2FumR96nD9vWJ77uvZ7mcg",
                                     "is_device_based": false,
                                     "secondary_exposures": [
                                         {
                                             "gate": "1221279314",
-                                            "gateValue": "false",
-                                            "ruleID": "default"
+                                            "gateValue": "true",
+                                            "ruleID": "1FzsKf0T7jWwTRKiSrbUld:100.00:4"
                                         }
                                     ],
                                     "explicit_parameters": [
@@ -6284,7 +6271,7 @@
                                     ],
                                     "allocated_experiment_name": "938456440",
                                     "is_experiment_active": true,
-                                    "is_user_in_experiment": false,
+                                    "is_user_in_experiment": true,
                                     "undelegated_secondary_exposures": []
                                 },
                                 "3517133692": {
@@ -6520,13 +6507,13 @@
                                 "sdkType": "statsig-node",
                                 "sdkVersion": "5.26.0"
                             },
-                            "time": 1733626784433,
+                            "time": 1733631742122,
                             "evaluated_keys": {
                                 "userID": "user-kaZGwlzkFBtvHdN2VDRgH3y7",
                                 "customIDs": {
-                                    "WebAnonymousCookieID": "5dc879b1-0cbf-49e7-919e-352d7fd29dd0",
-                                    "DeviceId": "5dc879b1-0cbf-49e7-919e-352d7fd29dd0",
-                                    "stableID": "5dc879b1-0cbf-49e7-919e-352d7fd29dd0",
+                                    "WebAnonymousCookieID": "3b4347ff-b3c7-412a-989c-04d31b1faa58",
+                                    "DeviceId": "3b4347ff-b3c7-412a-989c-04d31b1faa58",
+                                    "stableID": "3b4347ff-b3c7-412a-989c-04d31b1faa58",
                                     "workspace_id": "e9a67589-79d0-47d9-beaa-f6533cb37f0d",
                                     "account_id": "e9a67589-79d0-47d9-beaa-f6533cb37f0d"
                                 }
@@ -6539,14 +6526,14 @@
                                     "has_logged_in_before": true,
                                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
                                     "is_punch_out_user": false,
-                                    "is_paid": true,
+                                    "is_paid": false,
                                     "auth_status": "logged_in",
                                     "workspace_id": "e9a67589-79d0-47d9-beaa-f6533cb37f0d"
                                 },
                                 "customIDs": {
-                                    "WebAnonymousCookieID": "5dc879b1-0cbf-49e7-919e-352d7fd29dd0",
-                                    "DeviceId": "5dc879b1-0cbf-49e7-919e-352d7fd29dd0",
-                                    "stableID": "5dc879b1-0cbf-49e7-919e-352d7fd29dd0",
+                                    "WebAnonymousCookieID": "3b4347ff-b3c7-412a-989c-04d31b1faa58",
+                                    "DeviceId": "3b4347ff-b3c7-412a-989c-04d31b1faa58",
+                                    "stableID": "3b4347ff-b3c7-412a-989c-04d31b1faa58",
                                     "workspace_id": "e9a67589-79d0-47d9-beaa-f6533cb37f0d",
                                     "account_id": "e9a67589-79d0-47d9-beaa-f6533cb37f0d"
                                 },
@@ -6564,14 +6551,14 @@
                                 "has_logged_in_before": true,
                                 "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
                                 "is_punch_out_user": false,
-                                "is_paid": true,
+                                "is_paid": false,
                                 "auth_status": "logged_in",
                                 "workspace_id": "e9a67589-79d0-47d9-beaa-f6533cb37f0d"
                             },
                             "customIDs": {
-                                "WebAnonymousCookieID": "5dc879b1-0cbf-49e7-919e-352d7fd29dd0",
-                                "DeviceId": "5dc879b1-0cbf-49e7-919e-352d7fd29dd0",
-                                "stableID": "5dc879b1-0cbf-49e7-919e-352d7fd29dd0",
+                                "WebAnonymousCookieID": "3b4347ff-b3c7-412a-989c-04d31b1faa58",
+                                "DeviceId": "3b4347ff-b3c7-412a-989c-04d31b1faa58",
+                                "stableID": "3b4347ff-b3c7-412a-989c-04d31b1faa58",
                                 "workspace_id": "e9a67589-79d0-47d9-beaa-f6533cb37f0d",
                                 "account_id": "e9a67589-79d0-47d9-beaa-f6533cb37f0d"
                             },
@@ -6590,7 +6577,7 @@
                 "isIos": false,
                 "isAndroidChrome": false,
                 "isElectron": false,
-                "cspScriptNonce": "43accd55-9457-41db-bc57-c703951da046"
+                "cspScriptNonce": "a854ede6-cba8-45b9-b58a-018c60f3b3e9"
             },
             "routes/g.$gizmoId.c.$conversationId": null
         },
