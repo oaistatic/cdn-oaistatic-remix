@@ -15,12 +15,12 @@
                 "rq:[\"session\"]": {
                     "data": {
                         "user": {},
-                        "expires": "2025-03-11T03:39:33.683Z",
+                        "expires": "2025-03-11T03:53:33.123Z",
                         "accessToken": "",
                         "authProvider": "login-web"
                     },
                     "dataUpdateCount": 1,
-                    "dataUpdatedAt": 1733888373827,
+                    "dataUpdatedAt": 1733889213238,
                     "error": null,
                     "errorUpdateCount": 0,
                     "errorUpdatedAt": 0,
@@ -35,7 +35,7 @@
                 "clientBootstrap": {
                     "session": {
                         "user": {},
-                        "expires": "2025-03-11T03:39:33.683Z",
+                        "expires": "2025-03-11T03:53:33.123Z",
                         "accessToken": "",
                         "authProvider": "login-web"
                     },
@@ -137,7 +137,7 @@
                                         {
                                             "gate": "1132191510",
                                             "gateValue": "false",
-                                            "ruleID": "default"
+                                            "ruleID": "dHE9Ru37UQ9JP4Jaewul2"
                                         }
                                     ]
                                 },
@@ -341,8 +341,8 @@
                                 },
                                 "562926978": {
                                     "name": "562926978",
-                                    "value": true,
-                                    "rule_id": "5NtGLuwEGvKkFrz0jD9Jgb:100.00:1",
+                                    "value": false,
+                                    "rule_id": "default",
                                     "secondary_exposures": [
                                         {
                                             "gate": "1457171347",
@@ -351,8 +351,8 @@
                                         },
                                         {
                                             "gate": "1426009137",
-                                            "gateValue": "true",
-                                            "ruleID": "7D8EAif25E3Y8A3zkg6ljp:100.00:2"
+                                            "gateValue": "false",
+                                            "ruleID": "2TTLbbOdO9KcRehzO65JWp"
                                         }
                                     ]
                                 },
@@ -458,8 +458,8 @@
                                         },
                                         {
                                             "gate": "1426009137",
-                                            "gateValue": "true",
-                                            "ruleID": "7D8EAif25E3Y8A3zkg6ljp:100.00:2"
+                                            "gateValue": "false",
+                                            "ruleID": "2TTLbbOdO9KcRehzO65JWp"
                                         }
                                     ]
                                 },
@@ -562,7 +562,7 @@
                                 "989108178": {
                                     "name": "989108178",
                                     "value": false,
-                                    "rule_id": "4sTodKrNyByM4guZ68MORR",
+                                    "rule_id": "2IPlNE4lgwrh0MfAfdxRES:0.00:1",
                                     "secondary_exposures": [
                                         {
                                             "gate": "1457171347",
@@ -571,15 +571,30 @@
                                         },
                                         {
                                             "gate": "1426009137",
-                                            "gateValue": "true",
-                                            "ruleID": "7D8EAif25E3Y8A3zkg6ljp:100.00:2"
+                                            "gateValue": "false",
+                                            "ruleID": "2TTLbbOdO9KcRehzO65JWp"
+                                        },
+                                        {
+                                            "gate": "697158486",
+                                            "gateValue": "false",
+                                            "ruleID": "5KvTiw548r4tjqy7oHEcAL"
+                                        },
+                                        {
+                                            "gate": "3199899666",
+                                            "gateValue": "false",
+                                            "ruleID": "default"
+                                        },
+                                        {
+                                            "gate": "2048457345",
+                                            "gateValue": "false",
+                                            "ruleID": "default"
                                         }
                                     ]
                                 },
                                 "989226566": {
                                     "name": "989226566",
-                                    "value": true,
-                                    "rule_id": "6yqqYAWKtmfU8A7QGdiky4",
+                                    "value": false,
+                                    "rule_id": "default",
                                     "secondary_exposures": [
                                         {
                                             "gate": "1457171347",
@@ -588,8 +603,8 @@
                                         },
                                         {
                                             "gate": "1426009137",
-                                            "gateValue": "true",
-                                            "ruleID": "7D8EAif25E3Y8A3zkg6ljp:100.00:2"
+                                            "gateValue": "false",
+                                            "ruleID": "2TTLbbOdO9KcRehzO65JWp"
                                         }
                                     ]
                                 },
@@ -668,7 +683,7 @@
                                 "1132191510": {
                                     "name": "1132191510",
                                     "value": false,
-                                    "rule_id": "default",
+                                    "rule_id": "dHE9Ru37UQ9JP4Jaewul2",
                                     "secondary_exposures": []
                                 },
                                 "1159399595": {
@@ -761,8 +776,8 @@
                                 },
                                 "1426009137": {
                                     "name": "1426009137",
-                                    "value": true,
-                                    "rule_id": "7D8EAif25E3Y8A3zkg6ljp:100.00:2",
+                                    "value": false,
+                                    "rule_id": "2TTLbbOdO9KcRehzO65JWp",
                                     "secondary_exposures": [
                                         {
                                             "gate": "1457171347",
@@ -1232,8 +1247,8 @@
                                 },
                                 "2775516364": {
                                     "name": "2775516364",
-                                    "value": true,
-                                    "rule_id": "62xFU2LRHp4dPsOwj2jVUT",
+                                    "value": false,
+                                    "rule_id": "default",
                                     "secondary_exposures": [
                                         {
                                             "gate": "1457171347",
@@ -1242,8 +1257,8 @@
                                         },
                                         {
                                             "gate": "1426009137",
-                                            "gateValue": "true",
-                                            "ruleID": "7D8EAif25E3Y8A3zkg6ljp:100.00:2"
+                                            "gateValue": "false",
+                                            "ruleID": "2TTLbbOdO9KcRehzO65JWp"
                                         }
                                     ]
                                 },
@@ -1520,7 +1535,7 @@
                                         {
                                             "gate": "1132191510",
                                             "gateValue": "false",
-                                            "ruleID": "default"
+                                            "ruleID": "dHE9Ru37UQ9JP4Jaewul2"
                                         },
                                         {
                                             "gate": "138956718",
@@ -6542,13 +6557,13 @@
                                 "sdkType": "statsig-node",
                                 "sdkVersion": "5.26.0"
                             },
-                            "time": 1733888108427,
+                            "time": 1733889014672,
                             "evaluated_keys": {
                                 "userID": "user-kaZGwlzkFBtvHdN2VDRgH3y7",
                                 "customIDs": {
-                                    "WebAnonymousCookieID": "3b4347ff-b3c7-412a-989c-04d31b1faa58",
-                                    "DeviceId": "3b4347ff-b3c7-412a-989c-04d31b1faa58",
-                                    "stableID": "3b4347ff-b3c7-412a-989c-04d31b1faa58",
+                                    "WebAnonymousCookieID": "10d36436-2b88-4476-8b02-2e230ffd73da",
+                                    "DeviceId": "10d36436-2b88-4476-8b02-2e230ffd73da",
+                                    "stableID": "10d36436-2b88-4476-8b02-2e230ffd73da",
                                     "workspace_id": "e9a67589-79d0-47d9-beaa-f6533cb37f0d",
                                     "account_id": "e9a67589-79d0-47d9-beaa-f6533cb37f0d"
                                 }
@@ -6566,9 +6581,9 @@
                                     "workspace_id": "e9a67589-79d0-47d9-beaa-f6533cb37f0d"
                                 },
                                 "customIDs": {
-                                    "WebAnonymousCookieID": "3b4347ff-b3c7-412a-989c-04d31b1faa58",
-                                    "DeviceId": "3b4347ff-b3c7-412a-989c-04d31b1faa58",
-                                    "stableID": "3b4347ff-b3c7-412a-989c-04d31b1faa58",
+                                    "WebAnonymousCookieID": "10d36436-2b88-4476-8b02-2e230ffd73da",
+                                    "DeviceId": "10d36436-2b88-4476-8b02-2e230ffd73da",
+                                    "stableID": "10d36436-2b88-4476-8b02-2e230ffd73da",
                                     "workspace_id": "e9a67589-79d0-47d9-beaa-f6533cb37f0d",
                                     "account_id": "e9a67589-79d0-47d9-beaa-f6533cb37f0d"
                                 },
@@ -6591,9 +6606,9 @@
                                 "workspace_id": "e9a67589-79d0-47d9-beaa-f6533cb37f0d"
                             },
                             "customIDs": {
-                                "WebAnonymousCookieID": "3b4347ff-b3c7-412a-989c-04d31b1faa58",
-                                "DeviceId": "3b4347ff-b3c7-412a-989c-04d31b1faa58",
-                                "stableID": "3b4347ff-b3c7-412a-989c-04d31b1faa58",
+                                "WebAnonymousCookieID": "10d36436-2b88-4476-8b02-2e230ffd73da",
+                                "DeviceId": "10d36436-2b88-4476-8b02-2e230ffd73da",
+                                "stableID": "10d36436-2b88-4476-8b02-2e230ffd73da",
                                 "workspace_id": "e9a67589-79d0-47d9-beaa-f6533cb37f0d",
                                 "account_id": "e9a67589-79d0-47d9-beaa-f6533cb37f0d"
                             },
@@ -6612,7 +6627,7 @@
                 "isIos": false,
                 "isAndroidChrome": false,
                 "isElectron": false,
-                "cspScriptNonce": "4c8be5e7-b311-4561-8afc-d63a792f637a"
+                "cspScriptNonce": "2c468eab-ce88-465e-879d-2ebc6e578410"
             },
             "routes/gpts.mine": null
         },
