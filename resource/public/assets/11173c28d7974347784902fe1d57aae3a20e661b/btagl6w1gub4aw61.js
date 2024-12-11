@@ -1,0 +1,1 @@
+function t(e){if(e)return`textdoc-message-${e}`}export{t as g};
