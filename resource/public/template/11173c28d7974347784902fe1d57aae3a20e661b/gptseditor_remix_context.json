@@ -15,12 +15,12 @@
                 "rq:[\"session\"]": {
                     "data": {
                         "user": {},
-                        "expires": "2025-03-11T03:04:06.148Z",
+                        "expires": "2025-03-11T03:39:39.674Z",
                         "accessToken": "",
                         "authProvider": "login-web"
                     },
                     "dataUpdateCount": 1,
-                    "dataUpdatedAt": 1733886246276,
+                    "dataUpdatedAt": 1733888379787,
                     "error": null,
                     "errorUpdateCount": 0,
                     "errorUpdatedAt": 0,
@@ -35,7 +35,7 @@
                 "clientBootstrap": {
                     "session": {
                         "user": {},
-                        "expires": "2025-03-11T03:04:06.148Z",
+                        "expires": "2025-03-11T03:39:39.674Z",
                         "accessToken": "",
                         "authProvider": "login-web"
                     },
@@ -6542,7 +6542,7 @@
                                 "sdkType": "statsig-node",
                                 "sdkVersion": "5.26.0"
                             },
-                            "time": 1733886069089,
+                            "time": 1733888108427,
                             "evaluated_keys": {
                                 "userID": "user-kaZGwlzkFBtvHdN2VDRgH3y7",
                                 "customIDs": {
@@ -6612,7 +6612,7 @@
                 "isIos": false,
                 "isAndroidChrome": false,
                 "isElectron": false,
-                "cspScriptNonce": "4b07473a-e278-4aa8-a7fb-81dceb23dfec"
+                "cspScriptNonce": "17bd25c7-d33f-4125-bfe8-704024579544"
             },
             "routes/gpts.editor.($slug)": null
         },
