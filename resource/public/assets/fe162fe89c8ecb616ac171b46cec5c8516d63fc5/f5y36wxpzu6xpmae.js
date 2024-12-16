@@ -1,0 +1,2 @@
+import{j as o}from"./lklglvrzltpv3f05.js";import{C as e}from"./id6j6wzhtmplkq2i.js";import{b_ as n,b$ as s}from"./fn5bn67vlrtkutmt.js";import{fC as i}from"./dr5q0mnwgdiuy1ac.js";import{u as d}from"./gvzs5psd5zlducxo.js";function f(){const a=i(),{caModal:t,clientThreadId:r}=d();return o.jsxs(o.Fragment,{children:[t,o.jsx(n,{clientThreadId:r,isStaticSharedThread:!1,isDynamicSharedThread:a}),o.jsx(s,{}),o.jsx(e,{clientThreadId:r})]})}export{f as ChatScreenContentModals};
+//# sourceMappingURL=f5y36wxpzu6xpmae.js.map
