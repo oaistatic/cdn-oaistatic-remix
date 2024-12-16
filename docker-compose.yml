@@ -11,4 +11,3 @@ services:
       - "8642:80"
     environment:
       - ASSET_PREFIX=http://yourdomain.com
-      - SANDBOX_HOST=yourdomain.com
