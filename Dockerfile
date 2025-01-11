@@ -29,5 +29,4 @@ RUN cacheBuildId=$(jq -r '.cacheBuildId' /var/www/html/version.json) && \
     rm -rf /tmp/assets
 
 # 替换占位符并启动 caddy
-CMD find /var/www/html -type f \( -name "*.html" -o -name "*.js" -o -name "*.css" \) -exec sed -i "s|{{.assetPrefix}}|${ASSET_PREFIX}|g" {} + && caddy run --config /etc/caddy/Caddyfile
-
+CMD find /var/www/html -type f \( -name "*.html" -o -name "*.js" -o -name "*.css" \) -exec sed -i "s|{{.assetPrefix}}|${ASSET_PREFIX}|g" {} + && find /var/www/html -type f \( -name "*.html" -o -name "*.js" -o -name "*.css" \) -exec sed -i "s|{{.sandboxHost}}|${SANDBOX_HOST}|g" {} + && caddy run --config /etc/caddy/Caddyfile
