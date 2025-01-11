@@ -15,12 +15,12 @@
                 "rq:[\"session\"]": {
                     "data": {
                         "user": {},
-                        "expires": "2025-04-11T12:41:10.379Z",
+                        "expires": "2025-04-11T14:16:36.125Z",
                         "accessToken": "",
                         "authProvider": "openai"
                     },
                     "dataUpdateCount": 1,
-                    "dataUpdatedAt": 1736599270504,
+                    "dataUpdatedAt": 1736604996222,
                     "error": null,
                     "errorUpdateCount": 0,
                     "errorUpdatedAt": 0,
@@ -35,12 +35,12 @@
                 "clientBootstrap": {
                     "session": {
                         "user": {},
-                        "expires": "2025-04-11T12:41:10.379Z",
+                        "expires": "2025-04-11T14:16:36.125Z",
                         "accessToken": "",
                         "authProvider": "openai"
                     },
                     "user": {},
-                    "cluster": "unified-21",
+                    "cluster": "unified-9",
                     "userCountry": "US",
                     "userRegion": "California",
                     "userRegionCode": "CA",
@@ -7057,7 +7057,7 @@
                                 "sdkType": "statsig-node",
                                 "sdkVersion": "5.26.0"
                             },
-                            "time": 1736599216470,
+                            "time": 1736604851701,
                             "evaluated_keys": {
                                 "userID": "user-kaZGwlzkFBtvHdN2VDRgH3y7",
                                 "customIDs": {
@@ -7127,7 +7127,7 @@
                 "isIos": false,
                 "isAndroidChrome": false,
                 "isElectron": false,
-                "cspScriptNonce": "0d1977b3-02de-4d2e-a7a6-9823c2424fb9"
+                "cspScriptNonce": "f7af54a7-1078-4bf2-b146-6a44f3d690b5"
             },
             "routes/gpts.editor.($slug)": null
         },

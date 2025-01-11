@@ -15,12 +15,12 @@
                 "rq:[\"session\"]": {
                     "data": {
                         "user": {},
-                        "expires": "2025-04-11T12:40:58.862Z",
+                        "expires": "2025-04-11T14:16:24.644Z",
                         "accessToken": "",
                         "authProvider": "openai"
                     },
                     "dataUpdateCount": 1,
-                    "dataUpdatedAt": 1736599258966,
+                    "dataUpdatedAt": 1736604984737,
                     "error": null,
                     "errorUpdateCount": 0,
                     "errorUpdatedAt": 0,
@@ -35,12 +35,12 @@
                 "clientBootstrap": {
                     "session": {
                         "user": {},
-                        "expires": "2025-04-11T12:40:58.862Z",
+                        "expires": "2025-04-11T14:16:24.644Z",
                         "accessToken": "",
                         "authProvider": "openai"
                     },
                     "user": {},
-                    "cluster": "unified-21",
+                    "cluster": "unified-9",
                     "userCountry": "US",
                     "userRegion": "California",
                     "userRegionCode": "CA",
@@ -7057,7 +7057,7 @@
                                 "sdkType": "statsig-node",
                                 "sdkVersion": "5.26.0"
                             },
-                            "time": 1736599216470,
+                            "time": 1736604851701,
                             "evaluated_keys": {
                                 "userID": "user-kaZGwlzkFBtvHdN2VDRgH3y7",
                                 "customIDs": {
@@ -7127,7 +7127,7 @@
                 "isIos": false,
                 "isAndroidChrome": false,
                 "isElectron": false,
-                "cspScriptNonce": "7a04d8be-8416-4f77-9200-81c529f34f90"
+                "cspScriptNonce": "fef5db56-ffc8-419e-9046-1c137c74cd8f"
             },
             "routes/gpts._index": {
                 "kind": "store"

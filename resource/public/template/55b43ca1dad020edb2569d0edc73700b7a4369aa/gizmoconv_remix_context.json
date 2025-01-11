@@ -15,12 +15,12 @@
                 "rq:[\"session\"]": {
                     "data": {
                         "user": {},
-                        "expires": "2025-04-11T12:40:53.132Z",
+                        "expires": "2025-04-11T14:16:18.773Z",
                         "accessToken": "",
                         "authProvider": "openai"
                     },
                     "dataUpdateCount": 1,
-                    "dataUpdatedAt": 1736599253254,
+                    "dataUpdatedAt": 1736604978858,
                     "error": null,
                     "errorUpdateCount": 0,
                     "errorUpdatedAt": 0,
@@ -35,12 +35,12 @@
                 "clientBootstrap": {
                     "session": {
                         "user": {},
-                        "expires": "2025-04-11T12:40:53.132Z",
+                        "expires": "2025-04-11T14:16:18.773Z",
                         "accessToken": "",
                         "authProvider": "openai"
                     },
                     "user": {},
-                    "cluster": "unified-21",
+                    "cluster": "unified-9",
                     "userCountry": "US",
                     "userRegion": "California",
                     "userRegionCode": "CA",
@@ -7057,7 +7057,7 @@
                                 "sdkType": "statsig-node",
                                 "sdkVersion": "5.26.0"
                             },
-                            "time": 1736599216470,
+                            "time": 1736604851701,
                             "evaluated_keys": {
                                 "userID": "user-kaZGwlzkFBtvHdN2VDRgH3y7",
                                 "customIDs": {
@@ -7127,7 +7127,7 @@
                 "isIos": false,
                 "isAndroidChrome": false,
                 "isElectron": false,
-                "cspScriptNonce": "667bbcfc-d26d-4793-b205-48736885132c"
+                "cspScriptNonce": "017c26eb-e8c7-491c-87a7-f1139fc6135c"
             },
             "routes/_conversation": {
                 "prefetchSearch": null
